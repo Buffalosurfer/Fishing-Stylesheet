@@ -27,7 +27,11 @@ body {
   h2, h3 {
         max-width:200px;
         margin:left;
-        
       }
+  a {
+    color:blue;
+    }
+    
+      
   
   
