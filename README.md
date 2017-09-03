@@ -10,6 +10,7 @@ body {
   background-size: cover;
   height: 700px;
   width: 100%;
+  overflow: scroll;
 }
 /* Font Selection */
   h1, h2, h3 {
@@ -17,11 +18,12 @@ body {
         border:3px groove rgba(100,160,255,0.50);
         background-color: rgba(100,160,255,0.50);
         color:blue;
+        border-radius: 47%;
         text-align:center;
         position:top;
       }
   h1 {
-        font-size:3em;
+        font-size:4.2em;
         width:400px;
         margin:auto; 
       }
@@ -33,8 +35,3 @@ body {
     color:blue;
     }
 /* Widget */
-  
-    
-      
-  
-  
