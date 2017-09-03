@@ -5,12 +5,12 @@ body {
 }
 /* Background Picture */
 .header {
-  background-image: url("https://github.com/Buffalosurfer/Fishing-1/blob/master/11.20.12%201594.jpg?raw=true");
-  background-position: center center;
-  background-size: cover;
-  height: 700px;
-  width: 100%;
-  overflow: scroll;
+        background-image: url("https://github.com/Buffalosurfer/Fishing-1/blob/master/11.20.12%201594.jpg?raw=true");
+        background-position: center center;
+        background-size: cover;
+        height: 700px;
+        width: 100%;
+        overflow: scroll;
 }
 /* Font Selection */
   h1, h2, h3 {
@@ -32,6 +32,20 @@ body {
         margin:left;
       }
   a {
-    color:blue;
+        color:blue;
     }
-/* Widget */
+/* Widgets */
+  .advertisement 
+     {
+        position: bottom;
+        text-align: center;
+        border-width: 2px;
+        border-color: white;
+        display: block;
+      }
+  .scripts
+     {
+     }
+     
+       
+  
